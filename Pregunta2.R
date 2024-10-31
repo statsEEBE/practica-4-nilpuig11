@@ -8,3 +8,5 @@ simulacion<-rexp(100,1/10000) #important guardar quan utilitzem set.seed
 mean(simulacion)
 median(simulacion)
 var(simulacion)
+  
+
